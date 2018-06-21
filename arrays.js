@@ -30,3 +30,4 @@ function destructivelyRemoveElementFromBeginningOfArray (arr) {
   return arr;
   
 }
+
